@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.io.*;
 import java.util.Scanner;
-
+//Hello World! I love this class! :)
 public class NumericConversion {
 
     public static long hexStringDecode(String hex){
